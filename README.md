@@ -1,4 +1,7 @@
-## Hi there 👋
+## Holaaa
+Mi nombre es Alvaro Daniel Colque Cayo
+Estudio la carrera de ingenieria informatica en la UMSS
+Mi frase seria " La perseverancia te llevara muy lejos, no te rindas "
 
 <!--
 **ALvarexGuitar/AlvarexGuitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
